@@ -252,8 +252,4 @@ If you find this project useful, consider supporting the developer:
   <a href="https://github.com/LePhiAnhDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://t.me/lephianh386ht" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://lephianh.id.vn/" target="_blank"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
-</div> thì bổ sung thêm phần sau ở cuối ngay trước ### 💰 Support This Project nhé 💻 GitHub: github.com/LePhiAnhDev
-🌐 Website: lephianhdev.github.io/Portfolio-Page
-📬 Telegram: t.me/lephianh386ht
-👥 Channel tech: t.me/LPAnhDev
-🎥 TikTok: tiktok.com/@lephianhdev
+</div>
