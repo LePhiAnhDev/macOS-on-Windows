@@ -226,11 +226,21 @@ Mở **Terminal** và chạy:
 
 ---
 
+### 📡 Theo dõi tôi tại đây
+
+💻 GitHub: [github.com/LePhiAnhDev](https://github.com/LePhiAnhDev)
+🌐 Website: [lephianhdev.github.io/Portfolio-Page](https://lephianhdev.github.io/Portfolio-Page)
+📬 Telegram: [t.me/lephianh386ht](https://t.me/lephianh386ht)
+👥 Channel tech: [t.me/LPAnhDev](https://t.me/LPAnhDev)
+🎥 TikTok: [tiktok.com/@lephianhdev](https://tiktok.com/@lephianhdev)
+
+---
+
 ### 💰 Support This Project
 If you find this project useful, consider supporting the developer:
-- **Local Bank**: `1039506134` | LE PHI ANH | Vietcombank
-- **MoMo**: `0971390849` | LE PHI ANH
-- **ETH & USDT**: `0x928F8c5443b13f71a4d7094E8bD2E74c86127243`
+- **Local Bank**: 1039506134 | LE PHI ANH | Vietcombank
+- **MoMo**: 0971390849 | LE PHI ANH
+- **ETH & USDT**: 0x928F8c5443b13f71a4d7094E8bD2E74c86127243
 
 ---
 
@@ -239,15 +249,11 @@ If you find this project useful, consider supporting the developer:
   <h3>Le Phi Anh</h3>
 </div>
 <div align="center">
-  <p>Theo dõi tôi tại đây:</p>
-  <p>💻 GitHub: github.com/LePhiAnhDev</p>
-  <p>🌐 Website: lephianhdev.github.io/Portfolio-Page</p>
-  <p>📬 Telegram: t.me/lephianh386ht</p>
-  <p>👥 Channel tech: t.me/LPAnhDev</p>
-  <p>🎥 TikTok: tiktok.com/@lephianhdev</p>
-</div>
-<div align="center">
   <a href="https://github.com/LePhiAnhDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://t.me/lephianh386ht" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://lephianh.id.vn/" target="_blank"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
-</div>
+</div> thì bổ sung thêm phần sau ở cuối ngay trước ### 💰 Support This Project nhé 💻 GitHub: github.com/LePhiAnhDev
+🌐 Website: lephianhdev.github.io/Portfolio-Page
+📬 Telegram: t.me/lephianh386ht
+👥 Channel tech: t.me/LPAnhDev
+🎥 TikTok: tiktok.com/@lephianhdev
