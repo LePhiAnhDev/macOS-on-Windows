@@ -226,13 +226,15 @@ Mở **Terminal** và chạy:
 
 ---
 
-### 📡 Theo dõi tôi tại đây
+### 📡 Connect & Follow me
 
-💻 GitHub: [github.com/LePhiAnhDev](https://github.com/LePhiAnhDev)
-🌐 Website: [lephianhdev.github.io/Portfolio-Page](https://lephianhdev.github.io/Portfolio-Page)
-📬 Telegram: [t.me/lephianh386ht](https://t.me/lephianh386ht)
-👥 Channel tech: [t.me/LPAnhDev](https://t.me/LPAnhDev)
-🎥 TikTok: [tiktok.com/@lephianhdev](https://tiktok.com/@lephianhdev)
+<p align="center">
+  <a href="https://github.com/LePhiAnhDev">💻 GitHub</a> •
+  <a href="https://lephianhdev.github.io/Portfolio-Page">🌐 Website</a> •
+  <a href="https://t.me/lephianh386ht">📬 Telegram</a> •
+  <a href="https://t.me/LPAnhDev">👥 Channel</a> •
+  <a href="https://tiktok.com/@lephianhdev">🎥 TikTok</a>
+</p>
 
 ---
 
