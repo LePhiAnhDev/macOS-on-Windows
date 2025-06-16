@@ -226,6 +226,20 @@ Mở **Terminal** và chạy:
 
 ---
 
+### 📡 Connect & Follow me
+
+<div align="center">
+
+💻 [**GitHub**](https://github.com/LePhiAnhDev)
+🌐 [**Website cá nhân**](https://lephianhdev.github.io/Portfolio-Page)
+📬 [**Telegram cá nhân**](https://t.me/lephianh386ht)
+👥 [**Kênh cộng đồng**](https://t.me/LPAnhDev)
+🎥 [**TikTok**](https://tiktok.com/@lephianhdev)
+
+</div>
+
+---
+
 ### 💰 Support This Project
 If you find this project useful, consider supporting the developer:
 - **Local Bank**: `1039506134` | LE PHI ANH | Vietcombank
